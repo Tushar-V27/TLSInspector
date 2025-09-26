@@ -1,0 +1,5 @@
+termcolor
+colorama
+
+
+(Optional: If you are using Windows, colorama ensures the terminal colors work.)
